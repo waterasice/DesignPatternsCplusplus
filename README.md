@@ -10,6 +10,10 @@ And the original repositort is here:
 
 - [Waleon/DesignPatterns](https://github.com/Waleon/DesignPatterns)
 
+Reference
+
+- [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
+
 ---
 
 # DesignPatternsWithC-
