@@ -23,3 +23,4 @@ A Notes for learing DesignPatterns , using C++ .
 
 # INCLUDE
 - Singleton Pattern  (2018-11-22)
+- AbstractFactory Pattern  (2018-12-05)
