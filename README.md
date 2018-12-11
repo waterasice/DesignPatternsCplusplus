@@ -13,6 +13,7 @@ And the original repository is here:
 Reference
 
 - [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
+- [Design Patterns](https://sourcemaking.com/design_patterns/creational_patterns)
 
 ---
 
