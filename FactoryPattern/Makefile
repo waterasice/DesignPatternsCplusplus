@@ -6,7 +6,7 @@ TARGET=main
 SRCS = main.cpp 
 
 
-        INC = -I./
+
 INC = -I./
 OBJS = $(SRCS:.cpp=.o)
 
