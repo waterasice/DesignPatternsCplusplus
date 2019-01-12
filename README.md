@@ -28,3 +28,4 @@ A Notes for learing DesignPatterns , using C++ .
 - Singleton Pattern  (2018-11-22)
 - AbstractFactory Pattern  (2018-12-05)
 - Factory Pattern (2018-12-13)
+- Builder Pattern (2019-01-11)
