@@ -1,0 +1,22 @@
+#include "Prototype.h"
+#ifndef SAFE_DELETE
+#define SAFE_DELETE(p) { if(p){delete(p); (p)=NULL;} }
+#endif
+
+int main(int argc, char const *argv[])
+{
+       // 孙悟空
+    Prototype *pSWK = new ConcreteType("Qi Tian Da Sheng");
+
+    // 克隆猴子猴孙
+    Prototype *pSWK1 = pSWK->clonePrototype();
+    Prototype *pSWK2 = pSWK1->clonePrototype();
+
+    pSWK1->showPrototype();
+    pSWK2->showPrototype();
+
+    SAFE_DELETE(pSWK1);
+    SAFE_DELETE(pSWK2);
+    SAFE_DELETE(pSWK);
+    return 0;
+}
