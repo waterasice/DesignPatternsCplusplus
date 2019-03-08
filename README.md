@@ -1,4 +1,4 @@
-# NOTES
+# ABOUT
 
 Thanks Waleon
 
@@ -22,11 +22,11 @@ A Notes for learing DesignPatterns , using C++ .
 
 ---
 
-# INCLUDE
+# DIR
 
-## Creational 
-- Singleton Pattern  (2018-11-22)
-- AbstractFactory Pattern  (2018-12-05)
-- Factory Pattern (2018-12-13)
-- Builder Pattern (2019-01-11)
-- Prototye Pattern (2019-01-17)
+* Creational 
+  * Singleton Pattern  
+  * AbstractFactory Pattern  
+  * Factory Pattern 
+  * Builder Pattern 
+  * Prototye Pattern 
