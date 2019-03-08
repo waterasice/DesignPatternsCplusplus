@@ -25,8 +25,8 @@ A Notes for learing DesignPatterns , using C++ .
 # DIR
 
 * Creational 
-  * Singleton Pattern  
-  * AbstractFactory Pattern  
-  * Factory Pattern 
-  * Builder Pattern 
-  * Prototye Pattern 
+  * [x] Singleton Pattern  
+  * [x] AbstractFactory Pattern  
+  * [x] Factory Pattern 
+  * [x] Builder Pattern 
+  * [x] Prototye Pattern 
