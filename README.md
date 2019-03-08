@@ -1,6 +1,8 @@
-# ABOUT
+# DesignPatternsWithCplusplus
 
-Thanks Waleon
+A Notes for learing DesignPatterns , using C++ .
+
+**Thanks Waleon**
 
 This repository is built based on Waleon's blog :
 
@@ -15,12 +17,6 @@ Reference
 - [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
 - [Design Patterns](https://sourcemaking.com/design_patterns/creational_patterns)
 
----
-
-# DesignPatternsWithC-
-A Notes for learing DesignPatterns , using C++ .
-
----
 
 # DIR
 
@@ -30,3 +26,27 @@ A Notes for learing DesignPatterns , using C++ .
   * [x] Factory Pattern 
   * [x] Builder Pattern 
   * [x] Prototye Pattern 
+  
+* Structural 
+  * [ ] Adapter Pattern  
+  * [ ] Bridge Pattern  
+  * [ ] Composite Pattern 
+  * [ ] Decorator Pattern 
+  * [ ] Facade Pattern 
+  * [ ] Flyweight Pattern
+  * [ ] Private Class Data Pattern
+  * [ ] Proxy Pattern
+  
+* Behavioral  
+  * [ ] Clain of responsibility Pattern  
+  * [ ] Command Pattern  
+  * [ ] Interpreter Pattern 
+  * [ ] Iterator Pattern 
+  * [ ] Mediator Pattern 
+  * [ ] Memento Pattern
+  * [ ] Null Object Pattern
+  * [ ] Oberver Pattern
+  * [ ] State Pattern
+  * [ ] Strategy Pattern
+  * [ ] Template Pattern
+  * [ ] Visitor Pattern
