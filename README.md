@@ -2,9 +2,11 @@
 
 A Notes for learing DesignPatterns , using C++ .
 
+## About
+
 **Thanks Waleon**
 
-This repository is built based on Waleon's blog :
+The part of this repository is built based on Waleon's blog :
 
 - [C++ 设计模式](https://blog.csdn.net/liang19890820/article/details/66974516)
 
@@ -12,13 +14,15 @@ And the original repository is here:
 
 - [Waleon/DesignPatterns](https://github.com/Waleon/DesignPatterns)
 
-Reference
+## Reference
 
 - [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
 - [Design Patterns](https://sourcemaking.com/design_patterns/creational_patterns)
 
+## Video course 
 
-# DIR
+This repository is also built based on [C++设计模式（李建忠）](https://www.bilibili.com/video/av22292899?from=search&seid=4411130856517507313)
+# List
 
 * Creational 
   * [x] Singleton Pattern  
@@ -48,5 +52,5 @@ Reference
   * [ ] Oberver Pattern
   * [ ] State Pattern
   * [ ] Strategy Pattern
-  * [ ] Template Pattern
+  * [ x] Template Pattern
   * [ ] Visitor Pattern
