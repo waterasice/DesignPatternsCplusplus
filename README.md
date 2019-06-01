@@ -52,5 +52,5 @@ This repository is also built based on [C++设计模式（李建忠）](https://
   * [ ] Oberver Pattern
   * [ ] State Pattern
   * [ ] Strategy Pattern
-  * [ x] Template Pattern
+  * [x] Template Pattern
   * [ ] Visitor Pattern
